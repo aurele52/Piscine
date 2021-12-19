@@ -1,0 +1,5 @@
+Credentials cache: API:DA560501-30D9-4BAB-8D67-92B79DD5D981
+        Principal: audreyer@42.FR
+
+  Issued                Expires               Principal
+Sep  6 11:42:09 2021  Sep 13 11:42:09 2021  krbtgt/42.FR@42.FR
